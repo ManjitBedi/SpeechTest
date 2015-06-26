@@ -380,6 +380,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SpeechTest/SpeechTest-Prefix.pch";
 				INFOPLIST_FILE = "SpeechTest/SpeechTest-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -393,6 +394,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SpeechTest/SpeechTest-Prefix.pch";
 				INFOPLIST_FILE = "SpeechTest/SpeechTest-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -457,6 +459,7 @@
 				78903179193CE5FA00FB1E78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7890317A193CE5FA00FB1E78 /* Build configuration list for PBXNativeTarget "SpeechTestTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +468,7 @@
 				7890317C193CE5FA00FB1E78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
